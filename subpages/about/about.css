@@ -53,6 +53,7 @@
   text-align: justify;
 }
 #box{
+  text-transform: uppercase;
   display: none;
   padding: 20px;
   background-color: #009fed;
